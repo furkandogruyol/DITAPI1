@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxcb/cWkieUmqGSwRjxpfEgAAAAACAAAAAAAQZgAAAAEAACAAAABtHfxOSWWY14rdBB3AjzAS0FiJJrGK9Rpk0K/BcwAswwAAAAAOgAAAAAIAACAAAAC80ef0clRlvX/VGTFo1ZFquRb4o93XkSTPXKkCsidstIAAAABasuUdQsjkgtTvEgVCnPvJn8oS9ctc/IfuEBqi/Ey9h5hNuYy4/jmu4hPTDvIkw349fuzxTN8QDK8+hJRyCl1QriSL828JGNgjPBPCA0wqjtJoqAUKm7Pr99s1vhmkvXFx+u3oYNcDKlHy8q4o4RLG+xA0P6TmPrAefd1bU9z2wUAAAAC+88sqo04+uKfyLA80gj2v8LGfmVYT4L5zKT6+ykyO6DGRWWvJIxQPMYF+N7B9D0oN8nQ94qbJgDJxebNpiKcd</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="APIDIT.Models.DITContext">
+      <Value>Server=tcp:ditserver.database.windows.net,1433%3bInitial Catalog=DIT%3bPersist Security Info=False%3bUser ID=ditadmin%3bPassword=Ctd8cvw7s7.%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

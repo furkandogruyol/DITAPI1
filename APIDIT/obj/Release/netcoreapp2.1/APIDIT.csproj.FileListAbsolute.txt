@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\bin\Release\netcoreapp2.1\APIDIT.deps.json
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\bin\Release\netcoreapp2.1\APIDIT.runtimeconfig.json
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\bin\Release\netcoreapp2.1\APIDIT.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\bin\Release\netcoreapp2.1\APIDIT.dll
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\bin\Release\netcoreapp2.1\APIDIT.pdb
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.RazorAssemblyInfo.cache
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.RazorAssemblyInfo.cs
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.RazorTargetAssemblyInfo.cache
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.dll
+C:\Users\Furkan\source\repos\APIDIT\APIDIT\obj\Release\netcoreapp2.1\APIDIT.pdb
